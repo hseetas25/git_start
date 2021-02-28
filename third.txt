@@ -1,0 +1,2 @@
+Hi!
+This is third text file.
